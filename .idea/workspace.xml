@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1644b036-69ed-4d30-89f5-51554b85aee6" name="Changes" comment="Clases y Objetos En Java&#10;&#10;Signed-off-by: 22Cvas &lt;jcvas@outlook.com&gt;" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/22Cvas/tutorialJava.git",
+    "accountId": "a87bf74f-0aa5-4381-90c0-6df24277b598"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2uYHSoZ9FPAT0wOYmMUaD2wwAgF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Aritmetica.executor": "Run",
+    "Application.Persona.executor": "Run",
+    "Application.pruebaAritmerica.executor": "Run",
+    "Application.pruebaPersona.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Tutoriales/Tutorial Java/Clases",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Tutoriales/Tutorial Java/Clases/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1644b036-69ed-4d30-89f5-51554b85aee6" name="Changes" comment="" />
+      <created>1742418593117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742418593117</updated>
+      <workItem from="1742418594207" duration="2476000" />
+      <workItem from="1742499851126" duration="6858000" />
+      <workItem from="1742865159536" duration="1554000" />
+      <workItem from="1743565368732" duration="331000" />
+      <workItem from="1743565762874" duration="231000" />
+      <workItem from="1743566349865" duration="466000" />
+      <workItem from="1743612461795" duration="1399000" />
+      <workItem from="1744302188142" duration="610000" />
+      <workItem from="1744759522517" duration="5835000" />
+    </task>
+    <task id="LOCAL-00001" summary="Clases y Objetos En Java">
+      <option name="closed" value="true" />
+      <created>1744772481996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744772481996</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Clases y Objetos En Java">
+      <option name="closed" value="true" />
+      <created>1744772491299</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744772491299</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Clases y Objetos En Java">
+      <option name="closed" value="true" />
+      <created>1744772719252</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744772719252</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Clases y Objetos En Java&#10;&#10;Signed-off-by: 22Cvas &lt;jcvas@outlook.com&gt;">
+      <option name="closed" value="true" />
+      <created>1744772787101</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744772787101</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Clases y Objetos En Java" />
+    <MESSAGE value="Clases y Objetos En Java&#10;&#10;Signed-off-by: 22Cvas &lt;jcvas@outlook.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clases y Objetos En Java&#10;&#10;Signed-off-by: 22Cvas &lt;jcvas@outlook.com&gt;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arimetica/Aritmetica.java</url>
+          <line>15</line>
+          <properties class="Arimetica.Aritmetica">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
